@@ -47,7 +47,6 @@ I initialized and configured a GitHub repository to maintain version control for
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
