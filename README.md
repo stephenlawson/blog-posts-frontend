@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog Posts Frontend](https://taylor1038.github.io/blog-posts-frontend/)
+- Solution URL: [Blog Posts Frontend](https://stephenlawson.github.io/blog-posts-frontend/)
 
 
 ## My process
